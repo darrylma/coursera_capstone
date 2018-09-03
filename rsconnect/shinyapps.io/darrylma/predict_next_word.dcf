@@ -1,0 +1,12 @@
+name: predict_next_word
+title: predict_next_word
+username:
+account: darrylma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 417828
+bundleId: 1567345
+url: https://darrylma.shinyapps.io/predict_next_word/
+when: 1535989616.0076
+asMultiple: FALSE
+asStatic: FALSE
